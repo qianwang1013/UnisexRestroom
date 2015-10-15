@@ -1,0 +1,867 @@
+There are 20 human planing using the bathrom and 0 men in the bathroom
+Woman 0 wants to enter
+Woman 0 is in
+Woman 3 wants to enter
+Woman 0 is begining to do bussiness for 1319 milliseconds
+Woman 3 is in
+Woman 3 is begining to do bussiness for 1058 milliseconds
+Woman 2 wants to enter
+Woman 2 is in
+Woman 2 is begining to do bussiness for 1853 milliseconds
+Woman 1 wants to enter
+Woman 1 is in
+Woman 1 is begining to do bussiness for 3700 milliseconds
+Woman 7 wants to enter
+Woman 7 is in
+Woman 7 is begining to do bussiness for 3932 milliseconds
+Woman 6 wants to enter
+Woman 6 is in
+Woman 6 is begining to do bussiness for 2976 milliseconds
+Woman 5 wants to enter
+Woman 5 is in
+Woman 5 is begining to do bussiness for 2623 milliseconds
+Woman 4 wants to enter
+Woman 4 is in
+Woman 4 is begining to do bussiness for 1317 milliseconds
+Man 15 wants to enter
+Man 13 wants to enter
+Man 12 wants to enter
+Man 14 wants to enter
+Woman 8 wants to enter
+Woman 8 is in
+Woman 8 is begining to do bussiness for 2505 milliseconds
+Man 11 wants to enter
+Man 10 wants to enter
+Woman 9 wants to enter
+Woman 9 is in
+Woman 9 is begining to do bussiness for 1973 milliseconds
+Man 18 wants to enter
+Man 19 wants to enter
+Man 17 wants to enter
+Man 16 wants to enter
+Woman 3 is done do bussinessing
+Woman is trying to leave
+Woman 3 left
+Woman 3 is begining to recharge liquid for 3699 milliseconds
+Woman 4 is done do bussinessing
+Woman is trying to leave
+Woman 4 left
+Woman 4 is begining to recharge liquid for 4080 milliseconds
+Woman 0 is done do bussinessing
+Woman is trying to leave
+Woman 0 left
+Woman 0 is begining to recharge liquid for 3993 milliseconds
+Woman 2 is done do bussinessing
+Woman is trying to leave
+Woman 2 left
+Woman 2 is begining to recharge liquid for 4490 milliseconds
+Woman 9 is done do bussinessing
+Woman is trying to leave
+Woman 9 left
+Woman 9 is begining to recharge liquid for 2211 milliseconds
+Woman 8 is done do bussinessing
+Woman is trying to leave
+Woman 8 left
+Woman 8 is begining to recharge liquid for 4669 milliseconds
+Woman 5 is done do bussinessing
+Woman is trying to leave
+Woman 5 left
+Woman 5 is begining to recharge liquid for 3288 milliseconds
+Woman 6 is done do bussinessing
+Woman is trying to leave
+Woman 6 left
+Woman 6 is begining to recharge liquid for 3090 milliseconds
+Woman 1 is done do bussinessing
+Woman is trying to leave
+Woman 1 left
+Woman 1 is begining to recharge liquid for 4149 milliseconds
+Woman 7 is done do bussinessing
+Woman is trying to leave
+Woman 7 left
+Woman 7 is begining to recharge liquid for 2423 milliseconds
+Man 15 is in
+Man 15 is begining to do bussiness for 1974 milliseconds
+Man 13 is in
+Man 13 is begining to do bussiness for 4735 milliseconds
+Man 12 is in
+Man 12 is begining to do bussiness for 4165 milliseconds
+Man 14 is in
+Man 14 is begining to do bussiness for 4113 milliseconds
+Man 11 is in
+Man 11 is begining to do bussiness for 3338 milliseconds
+Man 10 is in
+Man 10 is begining to do bussiness for 2498 milliseconds
+Man 18 is in
+Man 18 is begining to do bussiness for 4237 milliseconds
+Man 19 is in
+Man 19 is begining to do bussiness for 3795 milliseconds
+Man 17 is in
+Man 17 is begining to do bussiness for 1171 milliseconds
+Man 16 is in
+Man 16 is begining to do bussiness for 1053 milliseconds
+Woman 9 is done recharge liquiding
+Woman 9 wants to enter
+Woman 3 is done recharge liquiding
+Woman 3 wants to enter
+Man 16 is done do bussinessing
+Man is trying to leave
+Man 16 left
+Man 16 is begining to recharge liquid for 4448 milliseconds
+Man 17 is done do bussinessing
+Man is trying to leave
+Man 17 left
+Man 17 is begining to recharge liquid for 2405 milliseconds
+Woman 0 is done recharge liquiding
+Woman 0 wants to enter
+Woman 4 is done recharge liquiding
+Woman 4 wants to enter
+Man 15 is done do bussinessing
+Man is trying to leave
+Man 15 left
+Man 15 is begining to recharge liquid for 4026 milliseconds
+Woman 5 is done recharge liquiding
+Woman 5 wants to enter
+Woman 6 is done recharge liquiding
+Woman 6 wants to enter
+Woman 2 is done recharge liquiding
+Woman 2 wants to enter
+Woman 7 is done recharge liquiding
+Woman 7 wants to enter
+Man 10 is done do bussinessing
+Man is trying to leave
+Man 10 left
+Man 10 is begining to recharge liquid for 4774 milliseconds
+Woman 8 is done recharge liquiding
+Woman 8 wants to enter
+Man 11 is done do bussinessing
+Man is trying to leave
+Man 11 left
+Man 11 is begining to recharge liquid for 1686 milliseconds
+Man 17 is done recharge liquiding
+Man 17 wants to enter
+Be a gentleman, let the lady go first
+Man 19 is done do bussinessing
+Man is trying to leave
+Man 19 left
+Man 19 is begining to recharge liquid for 3446 milliseconds
+Be a gentleman, let the lady go first
+Woman 1 is done recharge liquiding
+Woman 1 wants to enter
+Man 14 is done do bussinessing
+Man is trying to leave
+Man 14 left
+Man 14 is begining to recharge liquid for 3251 milliseconds
+Be a gentleman, let the lady go first
+Man 12 is done do bussinessing
+Man is trying to leave
+Man 12 left
+Man 12 is begining to recharge liquid for 1787 milliseconds
+Be a gentleman, let the lady go first
+Man 18 is done do bussinessing
+Man is trying to leave
+Man 18 left
+Man 18 is begining to recharge liquid for 4417 milliseconds
+Be a gentleman, let the lady go first
+Man 13 is done do bussinessing
+Man is trying to leave
+Man 13 left
+Man 13 is begining to recharge liquid for 3145 milliseconds
+Be a gentleman, let the lady go first
+Woman 7 is in
+Woman 7 is begining to do bussiness for 4163 milliseconds
+Woman 2 is in
+Woman 2 is begining to do bussiness for 4221 milliseconds
+Woman 6 is in
+Woman 6 is begining to do bussiness for 1087 milliseconds
+Woman 5 is in
+Woman 5 is begining to do bussiness for 1277 milliseconds
+Woman 9 is in
+Woman 9 is begining to do bussiness for 1819 milliseconds
+Woman 3 is in
+Woman 3 is begining to do bussiness for 3179 milliseconds
+Woman 0 is in
+Woman 0 is begining to do bussiness for 3688 milliseconds
+Woman 4 is in
+Woman 4 is begining to do bussiness for 3544 milliseconds
+Woman 8 is in
+Woman 8 is begining to do bussiness for 4482 milliseconds
+Woman 1 is in
+Woman 1 is begining to do bussiness for 4411 milliseconds
+Man 11 is done recharge liquiding
+Man 11 wants to enter
+Man 16 is done recharge liquiding
+Man 16 wants to enter
+Woman 6 is done do bussinessing
+Woman is trying to leave
+Woman 6 left
+Woman 6 is begining to recharge liquid for 1703 milliseconds
+Man 12 is done recharge liquiding
+Man 12 wants to enter
+Man 15 is done recharge liquiding
+Man 15 wants to enter
+Woman 5 is done do bussinessing
+Woman is trying to leave
+Woman 5 left
+Woman 5 is begining to recharge liquid for 4879 milliseconds
+Woman 9 is done do bussinessing
+Woman is trying to leave
+Woman 9 left
+Woman 9 is begining to recharge liquid for 2033 milliseconds
+Man 19 is done recharge liquiding
+Man 19 wants to enter
+Man 10 is done recharge liquiding
+Man 10 wants to enter
+Man 14 is done recharge liquiding
+Man 14 wants to enter
+Woman 6 is done recharge liquiding
+Woman 6 wants to enter
+Woman 6 is in
+Woman 6 is begining to do bussiness for 2582 milliseconds
+Man 13 is done recharge liquiding
+Man 13 wants to enter
+Woman 3 is done do bussinessing
+Woman is trying to leave
+Woman 3 left
+Woman 3 is begining to recharge liquid for 2022 milliseconds
+Woman 4 is done do bussinessing
+Woman is trying to leave
+Woman 4 left
+Woman 4 is begining to recharge liquid for 1429 milliseconds
+Woman 0 is done do bussinessing
+Woman is trying to leave
+Woman 0 left
+Woman 0 is begining to recharge liquid for 4247 milliseconds
+Woman 9 is done recharge liquiding
+Woman 9 wants to enter
+Woman 9 is in
+Woman 9 is begining to do bussiness for 4465 milliseconds
+Man 18 is done recharge liquiding
+Man 18 wants to enter
+Woman 7 is done do bussinessing
+Woman is trying to leave
+Woman 7 left
+Woman 7 is begining to recharge liquid for 3074 milliseconds
+Woman 2 is done do bussinessing
+Woman is trying to leave
+Woman 2 left
+Woman 2 is begining to recharge liquid for 2269 milliseconds
+Woman 1 is done do bussinessing
+Woman is trying to leave
+Woman 1 left
+Woman 1 is begining to recharge liquid for 3261 milliseconds
+Woman 8 is done do bussinessing
+Woman is trying to leave
+Woman 8 left
+Woman 8 is begining to recharge liquid for 3044 milliseconds
+Woman 4 is done recharge liquiding
+Woman 4 wants to enter
+Woman 4 is in
+Woman 4 is begining to do bussiness for 4637 milliseconds
+Woman 3 is done recharge liquiding
+Woman 3 wants to enter
+Woman 3 is in
+Woman 3 is begining to do bussiness for 1581 milliseconds
+Woman 6 is done do bussinessing
+Woman is trying to leave
+Woman 6 left
+Woman 6 is begining to recharge liquid for 4516 milliseconds
+Woman 5 is done recharge liquiding
+Woman 5 wants to enter
+Woman 5 is in
+Woman 5 is begining to do bussiness for 1481 milliseconds
+Woman 2 is done recharge liquiding
+Woman 2 wants to enter
+Woman 2 is in
+Woman 2 is begining to do bussiness for 4978 milliseconds
+Woman 3 is done do bussinessing
+Woman is trying to leave
+Woman 3 left
+Woman 3 is begining to recharge liquid for 3137 milliseconds
+Woman 7 is done recharge liquiding
+Woman 7 wants to enter
+Woman 7 is in
+Woman 7 is begining to do bussiness for 2122 milliseconds
+Woman 8 is done recharge liquiding
+Woman 8 wants to enter
+Woman 8 is in
+Woman 8 is begining to do bussiness for 4467 milliseconds
+Woman 5 is done do bussinessing
+Woman is trying to leave
+Woman 5 left
+Woman 5 is begining to recharge liquid for 4291 milliseconds
+Woman 1 is done recharge liquiding
+Woman 1 wants to enter
+Woman 1 is in
+Woman 1 is begining to do bussiness for 4153 milliseconds
+Woman 0 is done recharge liquiding
+Woman 0 wants to enter
+Woman 0 is in
+Woman 0 is begining to do bussiness for 4844 milliseconds
+Woman 9 is done do bussinessing
+Woman is trying to leave
+Woman 9 left
+Woman 9 is begining to recharge liquid for 4521 milliseconds
+Woman 7 is done do bussinessing
+Woman is trying to leave
+Woman 7 left
+Woman 7 is begining to recharge liquid for 3246 milliseconds
+Woman 4 is done do bussinessing
+Woman is trying to leave
+Woman 4 left
+Woman 4 is begining to recharge liquid for 3841 milliseconds
+Woman 6 is done recharge liquiding
+Woman 6 wants to enter
+Woman 6 is in
+Woman 6 is begining to do bussiness for 3461 milliseconds
+Woman 3 is done recharge liquiding
+Woman 3 wants to enter
+Woman 3 is in
+Woman 3 is begining to do bussiness for 3389 milliseconds
+Woman 2 is done do bussinessing
+Woman is trying to leave
+Woman 2 left
+Woman 2 is begining to recharge liquid for 4862 milliseconds
+Woman 1 is done do bussinessing
+Woman is trying to leave
+Woman 1 left
+Woman 1 is begining to recharge liquid for 1275 milliseconds
+Woman 5 is done recharge liquiding
+Woman 5 wants to enter
+Woman 5 is in
+Woman 5 is begining to do bussiness for 1781 milliseconds
+Woman 8 is done do bussinessing
+Woman is trying to leave
+Woman 8 left
+Woman 8 is begining to recharge liquid for 1069 milliseconds
+Woman 7 is done recharge liquiding
+Woman 7 wants to enter
+Woman 7 is in
+Woman 7 is begining to do bussiness for 3518 milliseconds
+Woman 0 is done do bussinessing
+Woman is trying to leave
+Woman 0 left
+Woman 0 is begining to recharge liquid for 2218 milliseconds
+Woman 9 is done recharge liquiding
+Woman 9 wants to enter
+Woman 9 is in
+Woman 9 is begining to do bussiness for 4957 milliseconds
+Woman 8 is done recharge liquiding
+Woman 8 wants to enter
+Woman 8 is in
+Woman 8 is begining to do bussiness for 1973 milliseconds
+Woman 1 is done recharge liquiding
+Woman 1 wants to enter
+Woman 1 is in
+Woman 1 is begining to do bussiness for 3400 milliseconds
+Woman 3 is done do bussinessing
+Woman is trying to leave
+Woman 3 left
+Woman 3 is begining to recharge liquid for 2781 milliseconds
+Woman 6 is done do bussinessing
+Woman is trying to leave
+Woman 6 left
+Woman 6 is begining to recharge liquid for 2790 milliseconds
+Woman 4 is done recharge liquiding
+Woman 4 wants to enter
+Woman 4 is in
+Woman 4 is begining to do bussiness for 4238 milliseconds
+Woman 5 is done do bussinessing
+Woman is trying to leave
+Woman 5 left
+Woman 5 is begining to recharge liquid for 4028 milliseconds
+Woman 0 is done recharge liquiding
+Woman 0 wants to enter
+Woman 0 is in
+Woman 0 is begining to do bussiness for 4855 milliseconds
+Woman 8 is done do bussinessing
+Woman is trying to leave
+Woman 8 left
+Woman 8 is begining to recharge liquid for 2849 milliseconds
+Woman 3 is done recharge liquiding
+Woman 3 wants to enter
+Woman 3 is in
+Woman 3 is begining to do bussiness for 2023 milliseconds
+Woman 7 is done do bussinessing
+Woman is trying to leave
+Woman 7 left
+Woman 7 is begining to recharge liquid for 4780 milliseconds
+Woman 6 is done recharge liquiding
+Woman 6 wants to enter
+Woman 6 is in
+Woman 6 is begining to do bussiness for 2871 milliseconds
+Woman 2 is done recharge liquiding
+Woman 2 wants to enter
+Woman 2 is in
+Woman 2 is begining to do bussiness for 2953 milliseconds
+Woman 1 is done do bussinessing
+Woman is trying to leave
+Woman 1 left
+Woman 1 is begining to recharge liquid for 3583 milliseconds
+Woman 4 is done do bussinessing
+Woman is trying to leave
+Woman 4 left
+Woman 4 is begining to recharge liquid for 3796 milliseconds
+Woman 5 is done recharge liquiding
+Woman 5 wants to enter
+Woman 5 is in
+Woman 5 is begining to do bussiness for 1897 milliseconds
+Woman 9 is done do bussinessing
+Woman is trying to leave
+Woman 9 left
+Woman 9 is begining to recharge liquid for 3685 milliseconds
+Woman 8 is done recharge liquiding
+Woman 8 wants to enter
+Woman 8 is in
+Woman 8 is begining to do bussiness for 3420 milliseconds
+Woman 3 is done do bussinessing
+Woman is trying to leave
+Woman 3 left
+Woman 3 is begining to recharge liquid for 3463 milliseconds
+Woman 6 is done do bussinessing
+Woman is trying to leave
+Woman 6 left
+Woman 6 is begining to recharge liquid for 1032 milliseconds
+Woman 2 is done do bussinessing
+Woman is trying to leave
+Woman 2 left
+Woman 2 is begining to recharge liquid for 3849 milliseconds
+Woman 5 is done do bussinessing
+Woman is trying to leave
+Woman 5 left
+Woman 5 is begining to recharge liquid for 4972 milliseconds
+Woman 0 is done do bussinessing
+Woman is trying to leave
+Woman 0 left
+Woman 0 is begining to recharge liquid for 2116 milliseconds
+Woman 6 is done recharge liquiding
+Woman 6 wants to enter
+Woman 6 is in
+Woman 6 is begining to do bussiness for 1518 milliseconds
+Woman 1 is done recharge liquiding
+Woman 1 wants to enter
+Woman 1 is in
+Woman 1 is begining to do bussiness for 3644 milliseconds
+Woman 7 is done recharge liquiding
+Woman 7 wants to enter
+Woman 7 is in
+Woman 7 is begining to do bussiness for 3829 milliseconds
+Woman 8 is done do bussinessing
+Woman is trying to leave
+Woman 8 left
+Woman 8 is begining to recharge liquid for 3399 milliseconds
+Woman 9 is done recharge liquiding
+Woman 9 wants to enter
+Woman 9 is in
+Woman 9 is begining to do bussiness for 4377 milliseconds
+Woman 4 is done recharge liquiding
+Woman 4 wants to enter
+Woman 4 is in
+Woman 4 is begining to do bussiness for 1589 milliseconds
+Woman 6 is done do bussinessing
+Woman is trying to leave
+Woman 6 left
+Woman 6 is begining to recharge liquid for 3643 milliseconds
+Woman 3 is done recharge liquiding
+Woman 3 wants to enter
+Woman 3 is in
+Woman 3 is begining to do bussiness for 4060 milliseconds
+Woman 0 is done recharge liquiding
+Woman 0 wants to enter
+Woman 0 is in
+Woman 0 is begining to do bussiness for 3228 milliseconds
+Woman 4 is done do bussinessing
+Woman is trying to leave
+Woman 4 left
+Woman 4 is begining to recharge liquid for 2462 milliseconds
+Woman 2 is done recharge liquiding
+Woman 2 wants to enter
+Woman 2 is in
+Woman 2 is begining to do bussiness for 3502 milliseconds
+Woman 1 is done do bussinessing
+Woman is trying to leave
+Woman 1 left
+Woman 1 is begining to recharge liquid for 1423 milliseconds
+Woman 5 is done recharge liquiding
+Woman 5 wants to enter
+Woman 5 is in
+Woman 5 is begining to do bussiness for 3359 milliseconds
+Woman 8 is done recharge liquiding
+Woman 8 wants to enter
+Woman 8 is in
+Woman 8 is begining to do bussiness for 4123 milliseconds
+Woman 7 is done do bussinessing
+Woman is trying to leave
+Woman 7 left
+Woman 7 is begining to recharge liquid for 1516 milliseconds
+Woman 1 is done recharge liquiding
+Woman 1 wants to enter
+Woman 1 is in
+Woman 1 is begining to do bussiness for 3327 milliseconds
+Woman 0 is done do bussinessing
+Woman is trying to leave
+Woman 0 left
+Woman 0 is begining to recharge liquid for 3220 milliseconds
+Woman 6 is done recharge liquiding
+Woman 6 wants to enter
+Woman 6 is in
+Woman 6 is begining to do bussiness for 3716 milliseconds
+Woman 4 is done recharge liquiding
+Woman 4 wants to enter
+Woman 4 is in
+Woman 4 is begining to do bussiness for 2138 milliseconds
+Woman 3 is done do bussinessing
+Woman is trying to leave
+Woman 3 left
+Woman 3 is begining to recharge liquid for 3057 milliseconds
+Woman 9 is done do bussinessing
+Woman is trying to leave
+Woman 9 left
+Woman 9 is begining to recharge liquid for 2488 milliseconds
+Woman 7 is done recharge liquiding
+Woman 7 wants to enter
+Woman 7 is in
+Woman 7 is begining to do bussiness for 2029 milliseconds
+Woman 2 is done do bussinessing
+Woman is trying to leave
+Woman 2 left
+Woman 2 is begining to recharge liquid for 2363 milliseconds
+Woman 4 is done do bussinessing
+Woman is trying to leave
+Woman 4 left
+Woman 4 is begining to recharge liquid for 1632 milliseconds
+Woman 5 is done do bussinessing
+Woman is trying to leave
+Woman 5 left
+Woman 5 is begining to recharge liquid for 3489 milliseconds
+Woman 7 is done do bussinessing
+Woman is trying to leave
+Woman 7 left
+Woman 7 is begining to recharge liquid for 4166 milliseconds
+Woman 9 is done recharge liquiding
+Woman 9 wants to enter
+Woman 9 is in
+Woman 9 is begining to do bussiness for 1546 milliseconds
+Woman 0 is done recharge liquiding
+Woman 0 wants to enter
+Woman 0 is in
+Woman 0 is begining to do bussiness for 3441 milliseconds
+Woman 1 is done do bussinessing
+Woman is trying to leave
+Woman 1 left
+Woman 1 is begining to recharge liquid for 3114 milliseconds
+Woman 3 is done recharge liquiding
+Woman 3 wants to enter
+Woman 3 is in
+Woman 3 is begining to do bussiness for 1311 milliseconds
+Woman 8 is done do bussinessing
+Woman is trying to leave
+Woman 8 left
+Woman 8 is begining to recharge liquid for 3162 milliseconds
+Woman 6 is done do bussinessing
+Woman is trying to leave
+Woman 6 left
+Woman 6 is begining to recharge liquid for 3365 milliseconds
+Woman 2 is done recharge liquiding
+Woman 2 wants to enter
+Woman 2 is in
+Woman 2 is begining to do bussiness for 3608 milliseconds
+Woman 4 is done recharge liquiding
+Woman 4 wants to enter
+Woman 4 is in
+Woman 4 is begining to do bussiness for 4932 milliseconds
+Woman 9 is done do bussinessing
+Woman is trying to leave
+Woman 9 left
+Woman 9 is begining to recharge liquid for 4232 milliseconds
+Woman 3 is done do bussinessing
+Woman is trying to leave
+Woman 3 left
+Woman 3 is begining to recharge liquid for 4488 milliseconds
+Woman 5 is done recharge liquiding
+Woman 5 wants to enter
+Woman 5 is in
+Woman 5 is begining to do bussiness for 2504 milliseconds
+Woman 1 is done recharge liquiding
+Woman 1 wants to enter
+Woman 1 is in
+Woman 1 is begining to do bussiness for 2246 milliseconds
+Woman 0 is done do bussinessing
+Woman is trying to leave
+Woman 0 left
+Woman 0 is begining to recharge liquid for 4825 milliseconds
+Woman 8 is done recharge liquiding
+Woman 8 wants to enter
+Woman 8 is in
+Woman 8 is begining to do bussiness for 2407 milliseconds
+Woman 6 is done recharge liquiding
+Woman 6 wants to enter
+Woman 6 is in
+Woman 6 is begining to do bussiness for 3736 milliseconds
+Woman 7 is done recharge liquiding
+Woman 7 wants to enter
+Woman 7 is in
+Woman 7 is begining to do bussiness for 4505 milliseconds
+Woman 2 is done do bussinessing
+Woman is trying to leave
+Woman 2 left
+Woman 2 is begining to recharge liquid for 2486 milliseconds
+Woman 1 is done do bussinessing
+Woman is trying to leave
+Woman 1 left
+Woman 1 is begining to recharge liquid for 2238 milliseconds
+Woman 5 is done do bussinessing
+Woman is trying to leave
+Woman 5 left
+Woman 5 is begining to recharge liquid for 1902 milliseconds
+Woman 9 is done recharge liquiding
+Woman 9 wants to enter
+Woman 9 is in
+Woman 9 is begining to do bussiness for 4346 milliseconds
+Woman 4 is done do bussinessing
+Woman is trying to leave
+Woman 4 left
+Woman 4 is begining to recharge liquid for 1280 milliseconds
+Woman 8 is done do bussinessing
+Woman is trying to leave
+Woman 8 left
+Woman 8 is begining to recharge liquid for 4303 milliseconds
+Woman 3 is done recharge liquiding
+Woman 3 wants to enter
+Woman 3 is in
+Woman 3 is begining to do bussiness for 2985 milliseconds
+Woman 2 is done recharge liquiding
+Woman 2 wants to enter
+Woman 2 is in
+Woman 2 is begining to do bussiness for 1801 milliseconds
+Woman 4 is done recharge liquiding
+Woman 4 wants to enter
+Woman 4 is in
+Woman 4 is begining to do bussiness for 3505 milliseconds
+Woman 5 is done recharge liquiding
+Woman 5 wants to enter
+Woman 5 is in
+Woman 5 is begining to do bussiness for 2223 milliseconds
+Woman 6 is done do bussinessing
+Woman is trying to leave
+Woman 6 left
+Woman 6 is begining to recharge liquid for 2882 milliseconds
+Woman 1 is done recharge liquiding
+Woman 1 wants to enter
+Woman 1 is in
+Woman 1 is begining to do bussiness for 3124 milliseconds
+Woman 0 is done recharge liquiding
+Woman 0 wants to enter
+Woman 0 is in
+Woman 0 is begining to do bussiness for 3057 milliseconds
+Woman 2 is done do bussinessing
+Woman is trying to leave
+Woman 2 left
+Woman 2 is begining to recharge liquid for 4794 milliseconds
+Woman 7 is done do bussinessing
+Woman is trying to leave
+Woman 7 left
+Woman 7 is begining to recharge liquid for 2430 milliseconds
+Woman 3 is done do bussinessing
+Woman is trying to leave
+Woman 3 left
+Woman 3 is begining to recharge liquid for 3572 milliseconds
+Woman 5 is done do bussinessing
+Woman is trying to leave
+Woman 5 left
+Woman 5 is begining to recharge liquid for 4881 milliseconds
+Woman 9 is done do bussinessing
+Woman is trying to leave
+Woman 9 left
+Woman 9 is begining to recharge liquid for 2151 milliseconds
+Woman 8 is done recharge liquiding
+Woman 8 wants to enter
+Woman 8 is in
+Woman 8 is begining to do bussiness for 1491 milliseconds
+Woman 6 is done recharge liquiding
+Woman 6 wants to enter
+Woman 6 is in
+Woman 6 is begining to do bussiness for 1232 milliseconds
+Woman 4 is done do bussinessing
+Woman is trying to leave
+Woman 4 left
+Woman 4 is begining to recharge liquid for 1384 milliseconds
+Woman 1 is done do bussinessing
+Woman is trying to leave
+Woman 1 left
+Woman 1 is begining to recharge liquid for 2678 milliseconds
+Woman 7 is done recharge liquiding
+Woman 7 wants to enter
+Woman 7 is in
+Woman 7 is begining to do bussiness for 2196 milliseconds
+Woman 0 is done do bussinessing
+Woman is trying to leave
+Woman 0 left
+Woman 0 is begining to recharge liquid for 2527 milliseconds
+Woman 6 is done do bussinessing
+Woman is trying to leave
+Woman 6 left
+Woman 6 is begining to recharge liquid for 2280 milliseconds
+Woman 8 is done do bussinessing
+Woman is trying to leave
+Woman 8 left
+Woman 8 is begining to recharge liquid for 1701 milliseconds
+Woman 4 is done recharge liquiding
+Woman 4 wants to enter
+Woman 4 is in
+Woman 4 is begining to do bussiness for 2299 milliseconds
+Woman 9 is done recharge liquiding
+Woman 9 wants to enter
+Woman 9 is in
+Woman 9 is begining to do bussiness for 2892 milliseconds
+Woman 3 is done recharge liquiding
+Woman 3 wants to enter
+Woman 3 is in
+Woman 3 is begining to do bussiness for 2812 milliseconds
+Woman 7 is done do bussinessing
+Woman is trying to leave
+Woman 7 left
+Woman 7 is begining to recharge liquid for 1762 milliseconds
+Woman 2 is done recharge liquiding
+Woman 2 wants to enter
+Woman 2 is in
+Woman 2 is begining to do bussiness for 3218 milliseconds
+Woman 1 is done recharge liquiding
+Woman 1 wants to enter
+Woman 1 is in
+Woman 1 is begining to do bussiness for 4402 milliseconds
+Woman 8 is done recharge liquiding
+Woman 8 wants to enter
+Woman 8 is in
+Woman 8 is begining to do bussiness for 2144 milliseconds
+Woman 0 is done recharge liquiding
+Woman 0 wants to enter
+Woman 0 is in
+Woman 0 is begining to do bussiness for 4411 milliseconds
+Woman 6 is done recharge liquiding
+Woman 6 wants to enter
+Woman 6 is in
+Woman 6 is begining to do bussiness for 4767 milliseconds
+Woman 4 is done do bussinessing
+Woman is trying to leave
+Woman 4 left
+Woman 4 is begining to recharge liquid for 3078 milliseconds
+Woman 5 is done recharge liquiding
+Woman 5 wants to enter
+Woman 5 is in
+Woman 5 is begining to do bussiness for 3613 milliseconds
+Woman 7 is done recharge liquiding
+Woman 7 wants to enter
+Woman 7 is in
+Woman 7 is begining to do bussiness for 3185 milliseconds
+Woman 9 is done do bussinessing
+Woman is trying to leave
+Woman 9 left
+Woman 9 is begining to recharge liquid for 4873 milliseconds
+Woman 3 is done do bussinessing
+Woman is trying to leave
+Woman 3 left
+Woman 3 is begining to recharge liquid for 3412 milliseconds
+Woman 8 is done do bussinessing
+Woman is trying to leave
+Woman 8 left
+Woman 8 is begining to recharge liquid for 2208 milliseconds
+Woman 2 is done do bussinessing
+Woman is trying to leave
+Woman 2 left
+Woman 2 is begining to recharge liquid for 4875 milliseconds
+Woman 4 is done recharge liquiding
+Woman 4 wants to enter
+Woman 4 is in
+Woman 4 is begining to do bussiness for 3659 milliseconds
+Woman 8 is done recharge liquiding
+Woman 8 wants to enter
+Woman 8 is in
+Woman 8 is begining to do bussiness for 4610 milliseconds
+Woman 1 is done do bussinessing
+Woman is trying to leave
+Woman 1 left
+Woman 1 is begining to recharge liquid for 3957 milliseconds
+Woman 7 is done do bussinessing
+Woman is trying to leave
+Woman 7 left
+Woman 7 is begining to recharge liquid for 3751 milliseconds
+Woman 5 is done do bussinessing
+Woman is trying to leave
+Woman 5 left
+Woman 5 is begining to recharge liquid for 4724 milliseconds
+Woman 0 is done do bussinessing
+Woman is trying to leave
+Woman 0 left
+Woman 0 is begining to recharge liquid for 2929 milliseconds
+Woman 6 is done do bussinessing
+Woman is trying to leave
+Woman 6 left
+Woman 6 is begining to recharge liquid for 2309 milliseconds
+Woman 3 is done recharge liquiding
+Woman 3 wants to enter
+Woman 3 is in
+Woman 3 is begining to do bussiness for 4619 milliseconds
+Woman 9 is done recharge liquiding
+Woman 9 wants to enter
+Woman 9 is in
+Woman 9 is begining to do bussiness for 3063 milliseconds
+Woman 4 is done do bussinessing
+Woman is trying to leave
+Woman 4 left
+Woman 4 is begining to recharge liquid for 1057 milliseconds
+Woman 6 is done recharge liquiding
+Woman 6 wants to enter
+Woman 6 is in
+Woman 6 is begining to do bussiness for 3401 milliseconds
+Woman 0 is done recharge liquiding
+Woman 0 wants to enter
+Woman 0 is in
+Woman 0 is begining to do bussiness for 2394 milliseconds
+Woman 2 is done recharge liquiding
+Woman 2 wants to enter
+Woman 2 is in
+Woman 2 is begining to do bussiness for 1078 milliseconds
+Woman 1 is done recharge liquiding
+Woman 1 wants to enter
+Woman 1 is in
+Woman 1 is begining to do bussiness for 2644 milliseconds
+Woman 7 is done recharge liquiding
+Woman 7 wants to enter
+Woman 7 is in
+Woman 7 is begining to do bussiness for 1962 milliseconds
+Woman 4 is done recharge liquiding
+Woman 4 wants to enter
+Woman 4 is in
+Woman 4 is begining to do bussiness for 1634 milliseconds
+Woman 8 is done do bussinessing
+Woman is trying to leave
+Woman 8 left
+Woman 8 is begining to recharge liquid for 3463 milliseconds
+Woman 2 is done do bussinessing
+Woman is trying to leave
+Woman 2 left
+Woman 2 is begining to recharge liquid for 3019 milliseconds
+Woman 5 is done recharge liquiding
+Woman 5 wants to enter
+Woman 5 is in
+Woman 5 is begining to do bussiness for 3287 milliseconds
+Woman 3Spend 22398 inside Bathroom and 29631 outBathroom recharging herself with liquid
+Woman 2Spend 27212 inside Bathroom and 29988 outBathroom recharging herself with liquid
+Woman 6Spend 27946 inside Bathroom and 27610 outBathroom recharging herself with liquid
+Woman 8Spend 31622 inside Bathroom and 26404 outBathroom recharging herself with liquid
+Woman 7Spend 29479 inside Bathroom and 27148 outBathroom recharging herself with liquid
+Man 17Spend 1171 inside Bathroom and 2405 outBathroom recharging himself with liquid
+Man 19Spend 3795 inside Bathroom and 3446 outBathroom recharging himself with liquid
+Man 13Spend 4735 inside Bathroom and 3145 outBathroom recharging himself with liquid
+Woman 0Spend 28843 inside Bathroom and 26075 outBathroom recharging herself with liquid
+Man 18Spend 4237 inside Bathroom and 4417 outBathroom recharging himself with liquid
+Woman 4Spend 31858 inside Bathroom and 24039 outBathroom recharging herself with liquid
+Woman 9Spend 26375 inside Bathroom and 26194 outBathroom recharging herself with liquid
+Woman 1Spend 32407 inside Bathroom and 25678 outBathroom recharging herself with liquid
+Man 15Spend 1974 inside Bathroom and 4026 outBathroom recharging himself with liquid
+Woman 5Spend 20758 inside Bathroom and 36454 outBathroom recharging herself with liquid
+Man 10Spend 2498 inside Bathroom and 4774 outBathroom recharging himself with liquid
+Man 12Spend 4165 inside Bathroom and 1787 outBathroom recharging himself with liquid
+Man 14Spend 4113 inside Bathroom and 3251 outBathroom recharging himself with liquid
+Man 11Spend 3338 inside Bathroom and 1686 outBathroom recharging himself with liquid
+Man 16Spend 1053 inside Bathroom and 4448 outBathroom recharging himself with liquid
